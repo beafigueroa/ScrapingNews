@@ -6,8 +6,7 @@ Este repositorio se ha creado como la práctica de Tipología y ciclo de vida de
 
 ## Integrantes
 
-Alicia Escontrela Rodríguez /n
-Beatriz Figueroa Martínez
+Alicia Escontrela Rodríguez y Beatriz Figueroa Martínez
 
 ## Ficheros
 
